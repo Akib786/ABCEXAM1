@@ -1,0 +1,10 @@
+<html><head>
+<title>Table</title>
+<table border=2>
+<tr>
+<td>ABC</td>
+<td>DEF</td>
+</tr>
+</table>
+</head>
+</html>
